@@ -3,7 +3,7 @@
 ## Copyright ⓒ 2020 Dawnclass(새벽반) dawnclass16@naver.com
 
 DNF_wep_list={
-    '귀검/나이트':{
+    'LightSaber':{
         '광검':[
             '(광검)별의 바다 : 바드나후',
             '(광검)적광검 루이너스',
